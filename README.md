@@ -1,4 +1,4 @@
-#Hi, there
+# Hi, there
 
 Frontend / Full-stack Engineer | React & Node.js | E-commerce platforms, micro-frontends, BFF, developer productivity
 
