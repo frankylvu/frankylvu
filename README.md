@@ -14,9 +14,6 @@ Previously, I worked at Kuaishou E-commerce, building data products, micro-front
 
 - **Frontend:** React, TypeScript, JavaScript, Vue, HTML, CSS
 - **Backend:** Node.js, Nest.js, Midway.js, Redis, MySQL, TypeORM
-- **Architecture:** Micro-frontends, BFF, multi-tenant platforms, RBAC, CI/CD
-- **Tooling:** Webpack, Babel, ESLint, Prettier, Git, npm
-- **Visualization:** G2, data product components, business dashboards
 
 ### 🚀 What I Care About
 
