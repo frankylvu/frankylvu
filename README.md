@@ -6,7 +6,7 @@ Frontend / Full-stack Engineer 🚀 | React & Node.js ⚛️ | E-commerce platfo
 
 Hi, I'm Franky Fu, a frontend / full-stack engineer focused on enterprise platforms, e-commerce infrastructure, and developer productivity.
 
-I currently work on TikTok Shop's international e-commerce outreach mid-platform, where I focus on multi-tenant message delivery, merchant engagement, campaign orchestration, frontend architecture, and BFF capabilities. I have experience leading frontend work across complex business systems and building reusable platform capabilities for multiple tenant domains.
+I currently work on TikTok Shop's international e-commerce, where I focus on multi-tenant message delivery, merchant engagement, campaign orchestration, frontend architecture, and BFF capabilities. I have experience leading frontend work across complex business systems and building reusable platform capabilities for multiple tenant domains.
 
 Previously, I worked at Kuaishou E-commerce, building data products, micro-frontend management systems, and low-code publishing infrastructure. I contributed to performance optimization, frontend engineering standards, reusable data visualization components, access control systems, and Node.js backend services.
 
